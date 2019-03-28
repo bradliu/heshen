@@ -1,12 +1,12 @@
 {
-    "name": "runner/heshen",
+    "name": "bradliu/heshen",
     "description": "finite state machine",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "RunnerLee",
-            "email": "runnerleer@gmail.com"
+            "name": "Brad Liu",
+            "email": "zhenkuo@live.com"
         }
     ],
     "require": {
